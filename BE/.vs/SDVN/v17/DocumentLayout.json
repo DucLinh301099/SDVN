@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VueJs\\SDVN\\BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|d:\\vuejs\\sdvn\\be\\sdvnautoemail\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|solutionrelative:sdvnautoemail\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|D:\\VueJs\\SDVN\\BE\\sdvnautoemail\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|solutionrelative:sdvnautoemail\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|D:\\VueJs\\SDVN\\BE\\sdvnautoemail\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|solutionrelative:sdvnautoemail\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|D:\\VueJs\\SDVN\\BE\\sdvnautoemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|solutionrelative:sdvnautoemail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|D:\\VueJs\\SDVN\\BE\\sdvnautoemail\\data\\emailtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|solutionrelative:sdvnautoemail\\data\\emailtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|D:\\VueJs\\SDVN\\BE\\sdvnautoemail\\jobs\\emailsendjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|solutionrelative:sdvnautoemail\\jobs\\emailsendjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|D:\\VueJs\\SDVN\\BE\\sdvnautoemail\\jobs\\emailtaskreloadjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|solutionrelative:sdvnautoemail\\jobs\\emailtaskreloadjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\models\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\models\\authresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\models\\viewmodel\\registerrequestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\models\\viewmodel\\registerrequestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\models\\viewmodel\\loginrequestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\models\\viewmodel\\loginrequestvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\models\\viewmodel\\listrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\models\\viewmodel\\listrolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\controllers\\listrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\controllers\\listrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|D:\\VueJs\\SDVN\\BE\\sdvnautoemail\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|solutionrelative:sdvnautoemail\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|D:\\VueJs\\SDVN\\BE\\sdvnautoemail\\models\\emailtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|solutionrelative:sdvnautoemail\\models\\emailtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|D:\\VueJs\\SDVN\\BE\\sdvnautoemail\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|solutionrelative:sdvnautoemail\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|D:\\VueJs\\SDVN\\BE\\sdvnautoemail\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|solutionrelative:sdvnautoemail\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|D:\\VueJs\\SDVN\\BE\\sdvnautoemail\\data\\iemailtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BE10F-62D9-4E4C-B47B-A01A552D8447}|SdvnAutoEmail\\SdvnAutoEmail.csproj|solutionrelative:sdvnautoemail\\data\\iemailtaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|d:\\vuejs\\sdvn\\be\\sdvn\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4AB3385-EF90-42B7-BA9A-ACDD49B95E61}|SDVN\\SDVN.csproj|solutionrelative:sdvn\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Service1.cs",
+              "RelativeDocumentMoniker": "SdvnAutoEmail\\Service1.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Service1.cs [Design]",
+              "RelativeToolTip": "SdvnAutoEmail\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T01:51:18.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Service1.cs",
+              "RelativeDocumentMoniker": "SdvnAutoEmail\\Service1.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Service1.cs",
+              "RelativeToolTip": "SdvnAutoEmail\\Service1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T01:51:20.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\App.config",
+              "RelativeDocumentMoniker": "SdvnAutoEmail\\App.config",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\App.config",
+              "RelativeToolTip": "SdvnAutoEmail\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-27T01:58:12.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Program.cs",
+              "RelativeDocumentMoniker": "SdvnAutoEmail\\Program.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Program.cs",
+              "RelativeToolTip": "SdvnAutoEmail\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T01:55:42.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "SDVN\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Services\\IAuthService.cs",
+              "RelativeToolTip": "SDVN\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:19:04.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SDVN\\Services\\AuthService.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Services\\AuthService.cs",
+              "RelativeToolTip": "SDVN\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:57:51.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\appsettings.json",
+              "RelativeDocumentMoniker": "SDVN\\appsettings.json",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\appsettings.json",
+              "RelativeToolTip": "SDVN\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T15:42:51.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Program.cs",
+              "RelativeDocumentMoniker": "SDVN\\Program.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Program.cs",
+              "RelativeToolTip": "SDVN\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:27:20.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailTaskRepository.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Data\\EmailTaskRepository.cs",
+              "RelativeDocumentMoniker": "SdvnAutoEmail\\Data\\EmailTaskRepository.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Data\\EmailTaskRepository.cs",
+              "RelativeToolTip": "SdvnAutoEmail\\Data\\EmailTaskRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:16:47.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailSendJob.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Jobs\\EmailSendJob.cs",
+              "RelativeDocumentMoniker": "SdvnAutoEmail\\Jobs\\EmailSendJob.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Jobs\\EmailSendJob.cs",
+              "RelativeToolTip": "SdvnAutoEmail\\Jobs\\EmailSendJob.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowBIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:17:33.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Repositories\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "SDVN\\Repositories\\IAuthRepository.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Repositories\\IAuthRepository.cs",
+              "RelativeToolTip": "SDVN\\Repositories\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:17:33.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailTaskReloadJob.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Jobs\\EmailTaskReloadJob.cs",
+              "RelativeDocumentMoniker": "SdvnAutoEmail\\Jobs\\EmailTaskReloadJob.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Jobs\\EmailTaskReloadJob.cs",
+              "RelativeToolTip": "SdvnAutoEmail\\Jobs\\EmailTaskReloadJob.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:17:51.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "SDVN\\Repositories\\AuthRepository.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "SDVN\\Repositories\\AuthRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:57:27.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "SDVN\\Models\\UserRole.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Models\\UserRole.cs",
+              "RelativeToolTip": "SDVN\\Models\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:50:05.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SDVN\\Models\\User.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Models\\User.cs",
+              "RelativeToolTip": "SDVN\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T01:15:24.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthResultDTO.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Models\\AuthResultDTO.cs",
+              "RelativeDocumentMoniker": "SDVN\\Models\\AuthResultDTO.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Models\\AuthResultDTO.cs",
+              "RelativeToolTip": "SDVN\\Models\\AuthResultDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:50:46.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterRequestVM.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Models\\ViewModel\\RegisterRequestVM.cs",
+              "RelativeDocumentMoniker": "SDVN\\Models\\ViewModel\\RegisterRequestVM.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Models\\ViewModel\\RegisterRequestVM.cs",
+              "RelativeToolTip": "SDVN\\Models\\ViewModel\\RegisterRequestVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:51:11.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginRequestVM.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Models\\ViewModel\\LoginRequestVM.cs",
+              "RelativeDocumentMoniker": "SDVN\\Models\\ViewModel\\LoginRequestVM.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Models\\ViewModel\\LoginRequestVM.cs",
+              "RelativeToolTip": "SDVN\\Models\\ViewModel\\LoginRequestVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:50:34.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListRoleVM.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Models\\ViewModel\\ListRoleVM.cs",
+              "RelativeDocumentMoniker": "SDVN\\Models\\ViewModel\\ListRoleVM.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Models\\ViewModel\\ListRoleVM.cs",
+              "RelativeToolTip": "SDVN\\Models\\ViewModel\\ListRoleVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:14:41.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ListRoleController.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Controllers\\ListRoleController.cs",
+              "RelativeDocumentMoniker": "SDVN\\Controllers\\ListRoleController.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Controllers\\ListRoleController.cs",
+              "RelativeToolTip": "SDVN\\Controllers\\ListRoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:18:54.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SDVN\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SDVN\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:19:47.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "SdvnAutoEmail\\Services\\EmailSender.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Services\\EmailSender.cs",
+              "RelativeToolTip": "SdvnAutoEmail\\Services\\EmailSender.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCYAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:17:12.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailTask.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Models\\EmailTask.cs",
+              "RelativeDocumentMoniker": "SdvnAutoEmail\\Models\\EmailTask.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Models\\EmailTask.cs",
+              "RelativeToolTip": "SdvnAutoEmail\\Models\\EmailTask.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:15:37.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "SdvnAutoEmail\\ProjectInstaller.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\ProjectInstaller.cs",
+              "RelativeToolTip": "SdvnAutoEmail\\ProjectInstaller.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:38:28.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEmailTaskRepository.cs",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Data\\IEmailTaskRepository.cs",
+              "RelativeDocumentMoniker": "SdvnAutoEmail\\Data\\IEmailTaskRepository.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\Data\\IEmailTaskRepository.cs",
+              "RelativeToolTip": "SdvnAutoEmail\\Data\\IEmailTaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:16:23.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SdvnAutoEmail\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "SdvnAutoEmail\\ProjectInstaller.cs",
+              "ToolTip": "D:\\VueJs\\SDVN\\SdvnAutoEmail\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "..\\SdvnAutoEmail\\ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:37:51.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\VueJs\\SDVN\\BE\\SDVN\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SDVN\\appsettings.Development.json",
+              "ToolTip": "D:\\VueJs\\SDVN\\BE\\SDVN\\appsettings.Development.json",
+              "RelativeToolTip": "SDVN\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T13:27:16.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
